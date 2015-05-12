@@ -2,9 +2,9 @@
 
   {
     "remote" : "github",
-    "repository": "varunchitre15/android_device_google_sprout-common",
+    "repository": "ResurrectionRemix/android_device_google_sprout-common",
     "target_path": "device/google/sprout-common",
-    "revision" :"cm-12.1"
+    "revision" :"lollipop5.1"
   },
   {
     
