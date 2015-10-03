@@ -18,6 +18,6 @@ LOCAL_PATH := device/google/sprout_b
 # inherit from common sprout repo
 -include device/google/sprout-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := sprout,sprout_b,sprout4,sprout8
+TARGET_OTA_ASSERT_DEVICE := sprout,sprout8,sprout4,sprout_b
 
 TARGET_RECOVERY_FSTAB := device/google/sprout_b/rootdir/root/fstab.sprout
